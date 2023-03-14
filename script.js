@@ -1562,3 +1562,5 @@ console.log(graph.hasEdge("A","C"));
 // graph.removeEdge("A","B");
 graph.removeVertex("B");
 graph.dispaly();
+
+//1234
